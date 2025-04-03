@@ -1,6 +1,6 @@
 # RecognizingHandwrittenDigits
 
-This project uses AI to recognize and classify handwritten digits using the MNIST dataset. It allows users to train and test a neural network with customizable parameters and upload their own digit images for classification.
+This project uses AI to recognize and classify handwritten digits using the MNIST dataset. It allows users to train and test a neural network with customizable parameters and upload their own digit images for classification. The code is based off of existing code and updated to work with python3.
 
 ---
 
